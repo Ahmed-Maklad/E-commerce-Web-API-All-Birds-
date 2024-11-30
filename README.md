@@ -1,11 +1,11 @@
 # Project: Allbirds E-commerce API Platform 🌟🛒  
-**Built with ASP.NET Web API and Angular**
+## Built with ASP.NET Web API and Angular 
 
 ## Introduction 🌟  
 Welcome to the Allbirds E-commerce API, a scalable and secure backend platform designed to power a seamless shopping experience. This project provides RESTful API services for managing products, orders, and customer data while ensuring top-notch security and performance.
 
 ## Project Overview 🔍  
-This API forms the backbone of the Allbirds E-commerce platform, enabling dynamic and secure communication between the Angular-based front end and the MSSQL database. With a robust architecture and modern technologies, it delivers efficient order management, JWT-based authentication, advanced filtering, and much more.
+This API forms the backbone of the Allbirds E-commerce platform, enabling dynamic and secure communication between the Angular-based frontend and the MSSQL database. With a robust architecture and modern technologies, it delivers efficient order management, JWT-based authentication, advanced filtering, and much more.
 
 ## Key Features and Responsibilities  
 
@@ -49,4 +49,16 @@ This API forms the backbone of the Allbirds E-commerce platform, enabling dynami
 ### Prerequisites  
 - .NET Core SDK  
 - MS SQL Server  
-- Angular CLI (for frontend integration) 
+- Angular CLI (for frontend integration)  
+
+### Installation  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/Your-Username/Your-Repo.git  
+   cd Your-Repo
+## Our Team 🙌💼
+- Ahmed Maklad
+- Mahmoud El Sonbaty
+- Kareem 7777
+- Ahmed Mohamed Hassan
+- Hossam Hamed
