@@ -59,6 +59,5 @@ This API forms the backbone of the Allbirds E-commerce platform, enabling dynami
 ## Our Team 🙌💼
 - Ahmed Maklad
 - Mahmoud El Sonbaty
-- Kareem 7777
 - Ahmed Mohamed Hassan
 - Hossam Hamed
