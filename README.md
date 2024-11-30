@@ -1,4 +1,4 @@
-# Project: Allbirds E-commerce API Platform 🌟🛒  
+# Project: Allbirds E-commerce API (All-birds) 🌟🛒  
 ## Built with ASP.NET Web API and Angular 
 
 ## Introduction 🌟  
